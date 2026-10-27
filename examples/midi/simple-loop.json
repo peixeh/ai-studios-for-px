@@ -1,0 +1,31 @@
+{
+  "bpm": 120,
+  "time_signature": [4, 4],
+  "length_beats": 8,
+  "tracks": [
+    {"name": "Lead", "channel": 0, "program": 26, "notes": [
+      {"start": 0, "duration": 0.5, "pitch": 60},
+      {"start": 1, "duration": 0.5, "pitch": 64},
+      {"start": 2, "duration": 1, "pitch": 67},
+      {"start": 4, "duration": 0.5, "pitch": 67},
+      {"start": 5, "duration": 0.5, "pitch": 64},
+      {"start": 6, "duration": 1, "pitch": 60}
+    ]},
+    {"name": "Bass", "channel": 1, "program": 33, "notes": [
+      {"start": 0, "duration": 2, "pitch": 36},
+      {"start": 2, "duration": 2, "pitch": 43},
+      {"start": 4, "duration": 2, "pitch": 41},
+      {"start": 6, "duration": 2, "pitch": 36}
+    ]},
+    {"name": "Drums", "channel": 9, "notes": [
+      {"start": 0, "duration": 0.1, "pitch": 36},
+      {"start": 1, "duration": 0.1, "pitch": 38},
+      {"start": 2, "duration": 0.1, "pitch": 36},
+      {"start": 3, "duration": 0.1, "pitch": 38},
+      {"start": 4, "duration": 0.1, "pitch": 36},
+      {"start": 5, "duration": 0.1, "pitch": 38},
+      {"start": 6, "duration": 0.1, "pitch": 36},
+      {"start": 7, "duration": 0.1, "pitch": 38}
+    ]}
+  ]
+}
